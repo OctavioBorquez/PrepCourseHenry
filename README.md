@@ -1,2 +1,3 @@
 # PrepCourseHenry
-Este es un repositorio de prueba del PrepCourse de Henry
+Este es uln repositorio de prueba del PrepCourse de Henry.
+Octavio Borquez
